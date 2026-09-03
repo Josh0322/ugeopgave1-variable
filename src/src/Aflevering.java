@@ -209,29 +209,5 @@ public class Aflevering {
         System.out.println((double) a/b);
         */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
