@@ -176,7 +176,7 @@ public class Aflevering {
         boolean isAvailable = true;
         String currentBorrower = "";
         String dueDate = "2026-09-10";
-        double fineAmount = 0.0;
+        double fineAmount = 100.0;
         boolean isBestseller = true;
         double rating = 4.45;
          */
